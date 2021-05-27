@@ -5,3 +5,9 @@ Se requiere el desarrollo de un microservicio que gestione, almacene y proporcio
 promociones de la venta de productos de toda la compañía. El servicio será consumido por la
 venta en sucursal y online.
 
+Requisitos técnicos:
+ C# (.net core >3.0)
+ DB: MongoDb
+ Utilizar Clean-Arquitecture
+ Unit tests 
+ Postman para probar los endpoints
