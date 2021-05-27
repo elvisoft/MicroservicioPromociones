@@ -6,8 +6,8 @@ promociones de la venta de productos de toda la compañía. El servicio será co
 venta en sucursal y online.
 
 Requisitos técnicos:
- C# (.net core >3.0)
- DB: MongoDb
- Utilizar Clean-Arquitecture
- Unit tests 
- Postman para probar los endpoints
+- C# (.net core >3.0)
+- DB: MongoDb
+- Clean-Arquitecture
+- Unit tests 
+- Postman para probar los endpoints
