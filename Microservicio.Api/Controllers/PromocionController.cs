@@ -23,6 +23,7 @@ namespace Microservicio.Api.Controllers
             return Ok(await db.getallPromociones());
         }
 
+
         [HttpGet("id={id}")]
         public async Task<IActionResult> getPromocionDetails(Guid id)
         {
